@@ -1,0 +1,30 @@
+
+
+formula:
+
+if(condition){
+    statement
+} else if(condition){
+    statement....
+} else {
+    statement
+}
+
+Marks:
+100 - 80 = A+
+79 - 70 = A
+69 - 60 = A-
+59 - 50 = B
+49 - 40 = C 
+39 - 33 = D
+32 - 0  = F
+
+Home work:
+(1)  set a program to find large or small number from below
+
+number1 = 62
+number2 = 39
+
+(2) set another program to find positive or negetive number from below
+
+let number = -3
